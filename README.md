@@ -6,4 +6,4 @@
 
 ## Python
 
-- [파이썬의 round() 함수는 오사소입](https://github.com/ejiseok/study_note/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98%20round%20%ED%95%A8%EC%88%98%EB%8A%94%20%EC%98%A4%EC%82%AC%EC%98%A4%EC%9E%85.md)
+- [파이썬의 round() 함수는 오사오입](https://github.com/ejiseok/study_note/blob/main/Python/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98%20round%20%ED%95%A8%EC%88%98%EB%8A%94%20%EC%98%A4%EC%82%AC%EC%98%A4%EC%9E%85.md)
